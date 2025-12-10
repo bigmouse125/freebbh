@@ -1,5 +1,7 @@
 -- Free premium version of BoatBuilderHub (auto build for babft)
 
+BY ASU AND MODIFIED BY BELUGA FOR MOBILE
+
 -- Config
 local Premium = true    -- put it to false if you don't want premium features
 local auto_auth = true  -- put it to false if you don't want auto-authentication

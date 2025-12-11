@@ -1,2 +1,2 @@
 wait("0.2") 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bigmouse125/freebbh/refs/heads/main/function"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bigmouse125/freebbh/refs/heads/main/Keyless%20BBH%20for%204%20may%202025%20version.lua.txt"))()
